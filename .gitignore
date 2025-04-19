@@ -1,0 +1,51 @@
+# CMake build files
+[Bb]uild*/
+[Bb]uild_*/*
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+[Dd]ebug/
+[Rr]elease/
+[Xx]64/
+[Ww]in32/
+*.VC.db
+*.suo
+*.user
+*.ide/
+
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+
+# Packages
+*.nupkg
+*.snupkg
+*.zip
+*.tar.gz
+
+# CMake cache and directories
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+
+# Output files
+*.log
+*.tmp
+*.swp
+*~ 
